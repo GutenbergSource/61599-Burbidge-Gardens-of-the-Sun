@@ -1,0 +1,76 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="217" filedate="2018-11-01 18:09:23" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-01 14:25:37" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-11-01 18:09:24" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="48524" filedate="2019-10-28 21:30:27" width="491px" height="720px">
+</image>
+<image path="images/frontispiece.jpg" filesize="63062" filedate="2019-10-28 21:30:27" width="441px" height="720px">
+</image>
+<image path="images/lbrace2.png" filesize="177" filedate="2020-03-11 18:57:42" width="6px" height="33px">
+</image>
+<image path="images/lbrace3.png" filesize="226" filedate="2020-03-08 14:59:13" width="9px" height="49px">
+</image>
+<image path="images/p005.jpg" filesize="37480" filedate="2019-10-28 21:30:28" width="405px" height="582px">
+</image>
+<image path="images/p007.jpg" filesize="25301" filedate="2019-10-29 22:14:56" width="342px" height="392px">
+</image>
+<image path="images/p010.jpg" filesize="20211" filedate="2019-10-29 22:14:57" width="370px" height="250px">
+</image>
+<image path="images/p027.jpg" filesize="32924" filedate="2019-10-29 22:14:57" width="468px" height="454px">
+</image>
+<image path="images/p044.jpg" filesize="53299" filedate="2019-10-29 22:14:57" width="547px" height="720px">
+</image>
+<image path="images/p052.jpg" filesize="119025" filedate="2020-03-08 14:59:14" width="476px" height="720px">
+</image>
+<image path="images/p085.png" filesize="3832" filedate="2020-03-08 14:59:23" width="363px" height="319px">
+</image>
+<image path="images/p087.png" filesize="8744" filedate="2020-03-08 14:59:26" width="274px" height="602px">
+</image>
+<image path="images/p096.png" filesize="5877" filedate="2020-03-08 14:59:28" width="529px" height="312px">
+</image>
+<image path="images/p114.jpg" filesize="103756" filedate="2020-03-08 14:59:28" width="720px" height="469px">
+</image>
+<image path="images/p119.jpg" filesize="54487" filedate="2020-03-08 14:59:28" width="427px" height="573px">
+</image>
+<image path="images/p130.jpg" filesize="19821" filedate="2020-03-08 14:59:28" width="316px" height="354px">
+</image>
+<image path="images/p131.jpg" filesize="12152" filedate="2020-03-08 14:59:29" width="264px" height="327px">
+</image>
+<image path="images/p147.jpg" filesize="49799" filedate="2020-03-08 14:59:29" width="550px" height="405px">
+</image>
+<image path="images/p148.jpg" filesize="74967" filedate="2020-03-08 14:59:29" width="720px" height="464px">
+</image>
+<image path="images/p158.jpg" filesize="46868" filedate="2020-03-08 14:59:29" width="269px" height="720px">
+</image>
+<image path="images/p216.jpg" filesize="29453" filedate="2020-03-08 14:59:29" width="388px" height="250px">
+</image>
+<image path="images/p225.jpg" filesize="96978" filedate="2020-03-08 14:59:29" width="720px" height="470px">
+</image>
+<image path="images/p250.jpg" filesize="83622" filedate="2020-03-08 14:59:29" width="720px" height="470px">
+</image>
+<image path="images/p264.jpg" filesize="103023" filedate="2020-03-08 14:59:29" width="471px" height="720px">
+</image>
+<image path="images/p274.jpg" filesize="50491" filedate="2020-03-08 14:59:29" width="432px" height="587px">
+</image>
+<image path="images/p298.jpg" filesize="79330" filedate="2020-03-08 14:59:29" width="557px" height="476px">
+</image>
+<image path="images/p321.jpg" filesize="28350" filedate="2020-03-08 14:59:29" width="469px" height="292px">
+</image>
+<image path="images/p340.jpg" filesize="72039" filedate="2020-03-08 14:59:29" width="378px" height="720px">
+</image>
+<image path="images/p341.jpg" filesize="41485" filedate="2020-03-08 14:59:29" width="359px" height="700px">
+</image>
+<image path="images/qrcode.png" filesize="267" filedate="2020-03-12 19:37:03" width="148px" height="148px">
+</image>
+<image path="images/rbrace2.png" filesize="176" filedate="2020-03-08 14:59:30" width="6px" height="33px">
+</image>
+<image path="images/rbrace3.png" filesize="222" filedate="2020-03-11 18:57:42" width="9px" height="49px">
+</image>
+<image path="images/rbrace4.png" filesize="256" filedate="2020-03-08 14:59:30" width="9px" height="65px">
+</image>
+<image path="images/titlepage.png" filesize="9881" filedate="2019-10-28 21:30:31" width="435px" height="720px">
+</image>
+</images>
